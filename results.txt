@@ -1,0 +1,18 @@
+ Temperature     Wind Speed       Dew Point       Wind Chill      Cloud Base
+-----------------------------------------------------------------------------
+    6.0 dF        6.0 mph          0.0 dF          -4.7 dF        1363.6 ft 
+   22.0 dF        6.0 mph          2.0 dF          14.3 dF        4545.5 ft 
+    9.1 dF        6.0 mph          6.0 dF          -1.0 dF         704.5 ft 
+   35.0 dF        7.0 mph         12.0 dF          29.1 dF        5227.3 ft 
+   56.0 dF        5.0 mph         45.0 dF           ***           2500.0 ft 
+   38.0 dF        3.0 mph         16.0 dF           ***           5000.0 ft 
+   43.0 dF        6.0 mph         40.0 dF          39.3 dF         681.8 ft 
+   47.0 dF        6.0 mph         34.0 dF          44.1 dF        2954.5 ft 
+   10.0 dF        6.0 mph          7.0 dF           0.0 dF         681.8 ft 
+   56.0 dF        4.0 mph         36.0 dF           ***           4545.5 ft 
+   15.0 dF        7.0 mph          9.0 dF           5.0 dF        1363.6 ft 
+
+*** There is no wind chill factor at this temperature or wind speed. ***
+
+    *** Temperature must be 50 degrees  or less, and wind speed
+               must be > 3 mph to compute  wind chill.

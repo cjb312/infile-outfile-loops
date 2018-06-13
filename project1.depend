@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1528419605 source:/Users/chris/Desktop/codeblockstest/project1/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1528829807 source:/Users/chris/Desktop/project1/main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cmath>
+	<cstdlib>
+
